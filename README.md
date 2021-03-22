@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there  I am Arun 👋
+I am working as a Lead DevOps Engineer in a multinational organisation.
+
+
+## Internet presence
+
+Here's my [medium](https://medium.com/@arunksingh16) profile.
+Here's my [DEV.TO](https://dev.to/arunksingh16) profile.
+
+
 
 <!--
 **arunksingh16/arunksingh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
