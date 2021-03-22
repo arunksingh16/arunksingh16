@@ -4,8 +4,9 @@ I am working as a Lead DevOps Engineer in a multinational organisation.
 
 ## Internet presence
 
-Here's my [medium](https://medium.com/@arunksingh16) profile.
-Here's my [DEV.TO](https://dev.to/arunksingh16) profile.
+> Here's my [medium](https://medium.com/@arunksingh16) profile.
+
+> Here's my [DEV.TO](https://dev.to/arunksingh16) profile.
 
 
 
