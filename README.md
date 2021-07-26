@@ -1,9 +1,9 @@
 ### Hi there,  I am Arun 👋
 I love to work on different technologies. DevOps is my passion and I am working as a Lead DevOps Engineer in a multinational organisation. These days,
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning Terraform
- 
+- 🔭 I’m currently working on python skills
+- 🌱 My Tech Stack - Kubernetes / Docker / Azure / ELK / Ansible / Terraform /Weblogic / Linux / Python / Bash / 
+
 
 ## Internet presence
 
