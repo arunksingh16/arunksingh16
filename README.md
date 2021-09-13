@@ -1,5 +1,6 @@
 ### Hi there,  I am Arun 👋
-I love to work on different technologies. I am working as a Lead DevOps Engineer/Solution Architect in a multinational organisation. These days,
+I love to work on different technologies. I am working as a Lead DevOps Engineer/Solution Architect in a multinational organisation. 
+These days,
 
 - 🔭 I’m currently working on python skills
 - 🌱 My Tech Stack - Kubernetes / Docker / Azure / ELK / Ansible / Terraform /Weblogic / Linux / Python / Bash / 
