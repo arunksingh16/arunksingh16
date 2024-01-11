@@ -3,10 +3,10 @@ I love to work on different technologies. I am working as a Lead DevOps Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunksingh16&label=Views&color=blue&style=plastic" alt="arunksingh16" /> </p>
 
-- 🔭 I’m currently working on python skills
-- 🌱 My Tech Stack - Kubernetes / Docker / Azure / ELK / Ansible / Terraform / Weblogic / Linux / Python / Bash / AWS / Azure DevOps
+- 🔭 I’m currently skilling up on AWS CDK(typescript) 
+- 🌱 My Tech Stack - AWS / Kubernetes / Docker / Azure / ELK / Ansible / Terraform / Weblogic / Linux / Python / Bash / DevOps
 - 😄 Pronouns: He/Him
-- 💬 Ask me about DevOps, Kubernetes, IaaC
+- 💬 Ask me about DevOps, Kubernetes, IaC
 
 ### Let's connect:
 
