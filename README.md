@@ -6,7 +6,7 @@ I love to work on different technologies. I am working as a Lead DevOps Engineer
 - 🔭 I’m currently skilling up on AWS CDK(typescript) 
 - 🌱 My Tech Stack - AWS / Kubernetes / Docker / Azure / ELK / Ansible / Terraform / Weblogic / Linux / Python / Bash / DevOps
 - 😄 Pronouns: He/Him
-- 💬 Ask me about DevOps, Kubernetes, IaC
+- 💬 Ask me about Cloud, DevOps, Kubernetes, IaC
 
 ### Let's connect:
 
