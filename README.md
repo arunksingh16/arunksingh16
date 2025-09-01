@@ -1,7 +1,6 @@
 ### Hi there,  I am Arun 👋
 I am Principal CloudOps Engineer with deep expertise in cloud infrastructure and operations. He specializes in building resilient, scalable, and secure cloud environments for enterprise applications. With a strong focus on automation and optimization, I drive operational excellence across cloud platforms. I am passionate about adopting emerging technologies to enhance system reliability and performance.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunksingh16&label=Views&color=blue&style=plastic" alt="arunksingh16" /> </p>
 
 - 🔭 I’m currently skilling up on AWS CDK(typescript) 
 - 🌱 My Tech Stack - AWS / Kubernetes / Docker / Azure / ELK / Ansible / Terraform / Weblogic / Linux / Python / Bash / DevOps
