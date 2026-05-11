@@ -2,7 +2,7 @@
 I am Principal Cloud Engineer with deep expertise in cloud infrastructure and operations. I specializes in building resilient, scalable, and secure cloud environments for enterprise applications. With a strong focus on automation and optimization, I drive operational excellence across cloud platforms. I am passionate about adopting emerging technologies to enhance system reliability and performance.
 
 
-- 🔭 I’m currently skilling up on Agent AI, AIOps, MLOps 
+- 🔭 I’m currently skilling up on AI Agents, AIOps, MLOps 
 - 🌱 My Tech Stack - AWS / Kubernetes / Docker / Azure / ELK / Ansible / Terraform / Weblogic / Linux / Python / Bash / DevOps
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Cloud, DevOps, SRE, Kubernetes, IaC
